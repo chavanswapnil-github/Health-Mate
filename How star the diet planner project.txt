@@ -1,6 +1,0 @@
-
-run as admin in cmd :-net start MongoDB
-
-Starting backend server:- npm run dev
-
-Starting frontend :- npm start
